@@ -1,0 +1,45 @@
+{
+  "Category": "Other Compounds",
+  "Nutrients": {
+    "Alpha-carotene": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Beta-carotene": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Beta-cryptoxanthin": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Lycopene": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Lutein + zeaxanthin": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Tocopherol, beta": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Caffeine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Choline": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Omega-3 Fatty Acids": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Omega-6 Fatty Acids": {
+      "Value": "number",
+      "Unit": "string"
+    }
+  }
+}

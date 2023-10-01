@@ -1,0 +1,105 @@
+{
+    "Category": "Minerals",
+    "Nutrients": {
+        "Boron": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Calcium": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Ionized Calcium": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Chloride": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Chromium": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Copper": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Plasma Copper": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Fluoride": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Iodine": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Iron": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Ferritin Iron": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Transferrin Iron Saturation": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Magnesium": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Manganese": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Molybdenum": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Nickel": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Phosphorus": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Potassium": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Selenium": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Plasma Selenium": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Silicon": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Sodium": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Sulfur": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Zinc": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Plasma Zinc": {
+            "Value": "number",
+            "Unit": "string"
+        }
+    }
+}

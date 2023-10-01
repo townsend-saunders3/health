@@ -1,0 +1,81 @@
+{
+  "Category": "Amino Acids",
+  "Nutrients": {
+    "Alanine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Arginine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Aspartic Acid": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Betaine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Cystine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Glutamic Acid": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Glycine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Histidine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Isoleucine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Leucine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Lysine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Methionine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Phenylalanine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Proline": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Serine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Threonine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Tryptophan": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Tyrosine": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Valine": {
+      "Value": "number",
+      "Unit": "string"
+    }
+  }
+}

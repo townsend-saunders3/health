@@ -1,0 +1,73 @@
+{
+    "Category": "Macronutrients",
+    "Nutrients": {
+        "Calories": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Total Fat": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Saturated Fat": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Trans Fat": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Polyunsaturated Fat": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Monounsaturated Fat": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Cholesterol": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "HDL Cholesterol": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "LDL Cholesterol": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Sodium": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Total Carbohydrate": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Dietary Fiber": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Soluble Fiber": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Insoluble Fiber": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Total Sugars": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Added Sugars": {
+            "Value": "number",
+            "Unit": "string"
+        },
+        "Protein": {
+            "Value": "number",
+            "Unit": "string"
+        }
+    }
+}

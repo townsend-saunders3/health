@@ -1,0 +1,65 @@
+{
+  "Category": "Vitamins",
+  "Nutrients": {
+    "Vitamin A (Retinol equivalents)": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin B1 (Thiamine)": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin B2 (Riboflavin)": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin B3 (Niacin)": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin B5 (Pantothenic acid)": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin B6": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin B7 (Biotin)": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin B9 (Folate)": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin B12 (Cobalamin)": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin C": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin D (D2 + D3)": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin D2": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin D3": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin E": {
+      "Value": "number",
+      "Unit": "string"
+    },
+    "Vitamin K2 (Menaquinone)": {
+      "Value": "number",
+      "Unit": "string"
+    }
+  }
+}
