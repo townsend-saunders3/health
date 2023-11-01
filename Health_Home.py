@@ -3,7 +3,7 @@ import pandas as pd
 import json
 import utils
 import openai
-openai.api_key = ""
+openai.api_key = st.secrets['api_key']
 st.markdown("""
 The goal of this script is to let someone know if they are deficient, on target, or in excess of certain micro or macro nutrients.
 The entire app is AI driven so some information may not be accurate, due to model hallucination of information.  However, with time and the 
@@ -154,7 +154,7 @@ def main():
         nutrientPrompts = getNutrientPrompts(nutrientNames)
         foodNutrients = getFoodNutrients(foodList, nutrientPrompts)
         userNutrients = getUserNutrients(healthBio, nutrientPrompts)
-    st.write(nutrientPrompts)
-    st.write(foodNutrients)
-    st.write(userNutrients)
+        st.write(nutrientPrompts)
+        st.write(foodNutrients)
+        st.write(userNutrients)
 main()
