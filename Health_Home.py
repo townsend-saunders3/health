@@ -154,7 +154,8 @@ def main():
         nutrientPrompts = getNutrientPrompts(nutrientNames)
         foodNutrients = getFoodNutrients(foodList, nutrientPrompts)
         userNutrients = getUserNutrients(healthBio, nutrientPrompts)
-        st.write(nutrientPrompts)
-        st.write(foodNutrients)
-        st.write(userNutrients)
+        st.json(nutrientPrompts)
+        st.json(foodNutrients)
+        st.json(userNutrients)
+
 main()
