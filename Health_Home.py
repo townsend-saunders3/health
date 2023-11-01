@@ -41,7 +41,7 @@ def getNutrientPrompts(nutrientNames):
         with open("nutrients/{}.json".format(nutrientName)) as file:
             nutrientPrompt = json.load(file)
         nutrientPrompts[nutrientName] = nutrientPrompt
-    st.write(nutrientPrompts)
+    st.json(nutrientPrompts)
     return nutrientPrompts
 
 # Get the nutrient break down of a given amount and unit of food using chatGPT
@@ -78,7 +78,7 @@ def getFoodNutrientResponses(food, nutrientPrompts):
         nutrientPrompt = nutrientPrompts[nutrientName]
         foodNutrientResponse = getFoodNutrientResponse(food, nutrientPrompt)
         foodNutrientResponses[nutrientName] = foodNutrientResponse
-        # st.write(foodNutrientResponse)
+        st.json(foodNutrientResponse)
     return foodNutrientResponses
     
 # Get all the nutrient breakdowns for all foods in a given list.
@@ -114,7 +114,7 @@ def getNutrientHealthResponses(healthBio, nutrientPrompts):
         nutrientPrompt = nutrientPrompts[nutrientName]
         nutrientHealthResponse = getNutrientHealthResponse(healthBio, nutrientPrompt)
         nutrientHealthResponses[nutrientName] = nutrientHealthResponse
-        # st.write(nutrientHealthResponse)
+        st.json(nutrientHealthResponse)
     return nutrientHealthResponses
         
 
