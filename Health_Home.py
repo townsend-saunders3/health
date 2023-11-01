@@ -78,7 +78,7 @@ def getFoodNutrientResponses(food, nutrientPrompts):
         nutrientPrompt = nutrientPrompts[nutrientName]
         foodNutrientResponse = getFoodNutrientResponse(food, nutrientPrompt)
         foodNutrientResponses[nutrientName] = foodNutrientResponse
-        st.write(foodNutrientResponse)
+        # st.write(foodNutrientResponse)
     return foodNutrientResponses
     
 # Get all the nutrient breakdowns for all foods in a given list.
@@ -114,7 +114,7 @@ def getNutrientHealthResponses(healthBio, nutrientPrompts):
         nutrientPrompt = nutrientPrompts[nutrientName]
         nutrientHealthResponse = getNutrientHealthResponse(healthBio, nutrientPrompt)
         nutrientHealthResponses[nutrientName] = nutrientHealthResponse
-        st.write(nutrientHealthResponse)
+        # st.write(nutrientHealthResponse)
     return nutrientHealthResponses
         
 
